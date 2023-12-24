@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951342424526",
+    "project_id": "davathonapp",
+    "storage_bucket": "davathonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951342424526:android:c945dfbcd0b0b83e020b9f",
+        "android_client_info": {
+          "package_name": "com.example.davathon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNAqZPhld4lXWJCbC0oJw_-oMQn_sAKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
